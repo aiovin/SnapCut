@@ -20,6 +20,8 @@
 
 - The image counter can be hidden. Toggle with the T key. This feature only works for Russian and English keyboard layouts;
 
+- ESC key to exit the program;
+
 - All cropped images are saved in a folder next to the original images;
 
 - Supported image formats: PNG, JPEG, and JPEG.
@@ -59,6 +61,8 @@ Known issues:
 - При работе только с одним изображением ЛКМ работает как СКМ;
 
 - Счетчик изображений можно скрыть. Переключение клавишей T. Работает только с русской и английской раскладками;
+
+- Клавиша ESC для выхода из программы;
 
 - Готовые изображения сохраняются в отдельную папку рядом с выбранными изображениями;
 
